@@ -8,7 +8,7 @@
       <div class="mt-4 px-2">
         <input
           type="text"
-          class="py-2 px-1 w-2/3 text-black"
+          class="py-2 px-2 w-2/3 text-black"
           v-model="newTodo"
           id="input-todo"
         />
